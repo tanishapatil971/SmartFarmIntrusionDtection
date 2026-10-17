@@ -106,8 +106,8 @@ Web Dashboard
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/tanishapatil971/SmartFarm_MultiObject_Live_Demo.git
-cd SmartFarm_MultiObject_Live_Demo
+git clone https://github.com/tanishapatil971/SmartFarmIntrusionDtection.git
+cd SmartFarmIntrusionDetection
 ```
 
 If your GitHub repository has a different name, replace the URL and folder name accordingly.
