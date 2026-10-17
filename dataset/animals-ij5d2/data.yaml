@@ -1,0 +1,22 @@
+names:
+- cat
+- chicken
+- cow
+- dog
+- fox
+- goat
+- horse
+- person
+- racoon
+- skunk
+nc: 10
+path: .
+roboflow:
+  license: CC BY 4.0
+  project: animals-ij5d2
+  url: https://universe.roboflow.com/roboflow-100/animals-ij5d2/dataset/1
+  version: 1
+  workspace: roboflow-100
+test: test/images
+train: train/images
+val: valid/images

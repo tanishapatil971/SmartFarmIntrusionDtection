@@ -1,0 +1,16 @@
+path: C:/Users/Admin/Downloads/SmartFarm_MultiObject_Live_Demo/SmartFarm_MultiObject_Live_Demo/dataset/animals-ij5d2
+train: train/images
+val: valid/images
+test: test/images
+nc: 10
+names:
+  0: cat
+  1: chicken
+  2: cow
+  3: dog
+  4: fox
+  5: goat
+  6: horse
+  7: person
+  8: racoon
+  9: skunk
